@@ -1,6 +1,2 @@
-# SharpMC-Rewritten
-A rewritten version of SharpMC for Minecraft Java Edition 1.11 (No longer maintained)
-
-This will mostlikely not be updated or supported by me (Kenny van Vulpen / https://github.com/kennyvv)
-The reason for posting this is for anyone interested in writting a C# Minecraft server to look at or base off, if you are planning on updating this. Please do create a fork of this.
-This is still missing a lot of functionality, this is up to you to implement if wanted.
+# MC.JS
+MC.JS is a fork of SharpMC (rewritten version for .NET Core). MC.JS provides a JavaScript plugin API. As development of SharpMC ended a while ago, the current supported version of Minecraft is 1.11. Currently, MC.JS expands SharpMC's plugin API for C#, and makes it available to JavaScript. The main focus of MC.JS is the API. However, if you are a C# developer and are interested in updating the software to support modern versions (even if new features aren't supported), that'd be great! 
